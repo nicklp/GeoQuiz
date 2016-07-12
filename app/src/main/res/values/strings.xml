@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="correct">正确</string>
+    <string name="incorrect">错误</string>
+    <string name="next">下一题</string>
+    <string name="appName">同事的陋习</string>
+    <string name="question_1">福尔摩斯是美国人。</string>
+    <string name="question_2">近几年流行的雪地靴品牌UGG源自美国。</string>
+    <string name="question_3">世界上面积最小的国家是梵蒂冈。</string>
+    <string name="question_4">凤姐现在是美国公民。</string>
+    <string name="question_5">羊肉泡馍是甘肃美食的代表。</string>
+    <string name="question_6">香港的“四大天王”分别是黎明，刘德华，郭富城，张国荣。</string>
+    <string name="question_7">歌曲《外婆的澎湖湾》中的澎湖湾在台湾。</string>
+    <string name="question_8">《小时代1.0》是折纸时代。</string>
+    <string name="question_9">“无事不登三宝殿”中“三宝”是指故宫的“前三殿”。</string>
+    <string name="question_10">运动员郭晶晶的丈夫是霍启刚。</string>
+    <string name="warning_text">Are you sure want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
