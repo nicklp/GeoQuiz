@@ -10,6 +10,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * 程序入口
+ */
 public class QuizActivity extends AppCompatActivity {
 
     private final Question[] bank = new Question[]{
