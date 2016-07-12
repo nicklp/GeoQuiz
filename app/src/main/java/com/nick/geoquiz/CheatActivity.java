@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * 作弊的类
+ */
 public class CheatActivity extends AppCompatActivity {
 
     private static final String EXTRA_ANSWER_IS_TRUE="com.nick.geoquiz.answer_is_true";
